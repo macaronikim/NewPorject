@@ -1,4 +1,5 @@
 #include 
 main(){
-print("hel");
+printf("hello");
+pirntf("hello2"
 }
